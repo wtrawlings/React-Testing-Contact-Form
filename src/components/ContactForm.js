@@ -1,5 +1,6 @@
 import React, { useState } from "react";
 import { useForm } from "react-hook-form";
+//where the hell is this react-hook-form thing form?
 
 const ContactForm = () => {
   const [data, setData] = useState();
